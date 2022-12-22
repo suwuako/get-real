@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 goofballs.json
 secret.json
+*.idea
 
 # C extensions
 *.so
